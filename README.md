@@ -11,7 +11,7 @@ Refer link <https://developers.themoviedb.org/3>
 Trying to get the data from the Movie database for any movie based an any text entered. The text matches the movie & for those all movies we'll have a data frama of the data 
 & the meta data. The Data can be further downloaded as a csv.
 
-Further the implementation will be done for the internet Movie Database or commonly known as iMDb https://www.imdb.com/.
+Further the implementation will be done for the internet Movie Database or commonly known as iMDb https://www.imdb.com/. Extracting data in same manner and putput for the same.
 
 Functionalities added to be : send the data extracted based on search terms to a certain ML Algo to predict any other recommendations that would match the users interests.
 Working with a recommender engine around this, the problem mentioned will be tackled providing  solution
